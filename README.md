@@ -54,6 +54,11 @@ Once it's installed, here's how most people start:
 # Your very first entry (the hardest part is starting!)
 pyjournal add "Trying out this new journal tool. So far so good! #first-entry"
 
+OR
+
+journal add "Trying out this new journal tool. So far so good! #first"
+
+
 # See what you've written
 pyjournal view
 
